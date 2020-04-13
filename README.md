@@ -1,3 +1,4 @@
 # hello-world
-hello man
+This is my first github exercise
+
 
